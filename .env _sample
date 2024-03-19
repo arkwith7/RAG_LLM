@@ -1,0 +1,4 @@
+OPENSEARCH_INITIAL_ADMIN_PASSWORD=여기에 Opensearch의 admin계정에서 사용할 비밀번호 입력  # .env 파일에서 설정
+OPENAI_API_KEY=<YOUR_OPENAI_API_KEY>
+OPENSEARCH_SERVICE_URI=<YOUR_OPENSEARCH_SERVICE_URI>
+OPENSEARCH_SERVICE_URI=https://admin:your_password_here@opensearch-node1:9200

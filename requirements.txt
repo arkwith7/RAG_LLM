@@ -1,0 +1,8 @@
+openai
+pandas
+arrow
+wget
+python-dotenv
+opensearch-py
+jupyter
+elasticsearch
